@@ -1,6 +1,8 @@
 # Emoji Jolly Roger Generator
 
-Based on [this tweet](https://twitter.com/girlziplocked/status/1370959284545150976). Put in up to four emoji (or whatever) and see them produced as a Jolly Roger.
+Based on [this tweet](https://twitter.com/girlziplocked/status/1370959284545150976). Put in up to four emoji (or whatever) and see them produced as a Jolly Roger. [Live version here](http://www.settinger.net/etc/piratemoji/)!
+
+![example](example.png)
 
 Issues:
 * No styling
